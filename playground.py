@@ -1,7 +1,7 @@
 print("Practicing Variables")
 # Here add the commands you practice and their corresponding output i.e...
 myvar = 1
-print(f'Variable myvar : {myvar} is an {type(myvar)}')
+print(f"Variable myvar : {myvar} is an {type(myvar)}")
 #... rest of your practice code.
 print("Done Practicing Variables")
 
@@ -67,5 +67,5 @@ def is_even(x):
         return True
     else:
         return False
+print(is_even(x))
 
-print('\n' "Defining Classes")
